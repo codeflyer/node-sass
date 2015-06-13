@@ -32,13 +32,6 @@
     "pretest": "node_modules/.bin/jshint bin lib scripts test",
     "test": "node_modules/.bin/mocha test"
   },
-  "files": [
-    "bin",
-    "binding.gyp",
-    "lib",
-    "scripts",
-    "src"
-  ],
   "keywords": [
     "css",
     "libsass",
